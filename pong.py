@@ -12,7 +12,9 @@ Exercises
 """
 
 from random import choice, random
-from turtle import *
+from turtle import up, goto, down, begin_fill, done, listen
+from turtle import forward, left, end_fill, dot, onkey, clear
+from turtle import update, ontimer, setup, hideturtle, tracer
 
 from freegames import vector
 
